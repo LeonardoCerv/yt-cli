@@ -1,8 +1,12 @@
-# yt-cli
+
+> 📖 🇪🇸 También disponible en español: [README.es.md](README.es.md)
+
+![yt-cli](/logo.png)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-Tool-blue)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?logo=youtube&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-brown)
+
 
 Downloads YouTube videos/playlists to your computer. Works with **private and unlisted videos** too if you give it your browser cookies.
 
